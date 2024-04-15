@@ -1,0 +1,5 @@
+123	Vinay	Nagpur	Car
+124	Vini	Nagpur	car
+127	Simpi	Gnagar	Bike
+128	Akshat	Indore	bus
+101	Nikita	Nagpur	Car
